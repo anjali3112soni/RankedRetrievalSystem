@@ -11,4 +11,4 @@ Word_Counting:    It is the main file which will run all other file ex: file_ind
                   
 Word_TF_IDF:      It will create weight of each word in that documents. weight= TF*IDF
 
-stastistic,TF_IDF_stastistic:        These file display some of the stastistic like,term frequency, inverted index of a word, weight of aperticular word in that doc, weight of a two word queries.
+stastistic,TF_IDF_stastistic:        These file display some of the stastistic like,term frequency, inverted index of a word,        weight of a particular word in that doc, weight of a two word queries.
